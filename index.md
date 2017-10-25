@@ -4,8 +4,6 @@ A guide for those who want to get things done.
 Windows only! 
 Sorry, but that is the vast majority. If you use Linux you probably don't need this guide anyway, and my wife won't let me use her mac.
 
-<a href="https://ungaretti.github.io/setting_up_ide.html"> Setting up an environment </a> </n>
-
 ## Setting up an environment:
 This section will explain how to make a nice standalone environment, almost an IDE, that fits on a single file or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It's the best by far. However, it lacks a feature: it has no option to automatically save the file before running it. If you, like me, get annoyed by that, you can fix it installing a plugin named NppExec, but I will not cover this here. Crimson Editor can be configured to save before running and has Rebol syntax hightlighting, but lacks many other nice features that Notepad++ has.
 
@@ -43,31 +41,3 @@ This section will explain how to make a nice standalone environment, almost an I
 
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/Ungaretti/ungaretti.github.io/tree/master/assets)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ungaretti/ungaretti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
