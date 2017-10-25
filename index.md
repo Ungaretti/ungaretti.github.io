@@ -7,11 +7,19 @@ Sorry, but that is the vast majority. If you use Linux you probably don't need t
 ## Setting up an environment:
 This section will explain how to make a nice standalone environment, almost an IDE, that fits on a single file or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It is by far the best. However, it lacks a feature that annoys me a lot: it has no option to automatically save the file before running it. If you, like me, think that's a major flaw, you can fix it installing a plugin named NppExec, but I will not cover this here.
 
-1 - Download Notepad++ - make sure you download a non installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
+1 - Download Notepad++ from https://notepad-plus-plus.org/download/v7.5.1.html . Make sure you download a non-installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
 
 2 - Create a folder for the environment. I suggest calling it "RedIDE" and making inside the "Documents" folder.
 
-3
+3 - Unpack Notepad++ in this folder.
+
+4 - Download RED and unpack it in this same folder.
+
+5 - Donload RED syntax highlight file from https://github.com/Ungaretti/Notepad-config-file-for-Red-Language . Use the download zip button. Unpack it in the RedIDE folder too.
+
+6 - Open Notepad++ and goto "Language/Define your language..." . Click on "Import..." and choose "Red-lang.xml". A popup will tell you that the import was sucessfull. Check the box "Ignore case". quotes and parenthesis Click in "Save As..." 
+
+
 
 
 
