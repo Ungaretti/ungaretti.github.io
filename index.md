@@ -23,12 +23,15 @@ This section will explain how to make a nice standalone environment, almost an I
 
 <img src="http://ungaretti.github.io/assets/2.jpg">
 
-7 - Open Notepad++ and goto "Language/Define your language..." . Click on "Import..." and choose the downloaded "Red-lang.xml". A popup will tell you that the import was sucessfull. Check the box "Ignore case" and add "red" to the "Ext." box. Click in "Save As..." and save as "Red".
+7 - Open Notepad++ and goto "Language/Define your language..." . Click on "Import..." and choose the downloaded "Red-lang.xml". A popup will tell you that the import was sucessfull.
 
 <img src="http://ungaretti.github.io/assets/3.jpg">
+
+8 - Check the box "Ignore case" and add "red" to the "Ext." box. Click in "Save As..." and save as "Red".
+
 <img src="http://ungaretti.github.io/assets/4.jpg">
 
-8 - Open the "Settings/Preferences/Auto Completion" window. Check the boxes for "()", "" "{}" and "[]". If you can't find those in the options, create a "matched pair".
+9 - Open the "Settings/Preferences/Auto Completion" window. Check the boxes for "()", "" "{}" and "[]". If you can't find those in the options, create a "matched pair".
 
 <img src="http://ungaretti.github.io/assets/5.jpg">
 
