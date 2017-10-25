@@ -17,9 +17,9 @@ This section will explain how to make a nice standalone environment, almost an I
 
 4 - Download RED and unpack it in this same folder.
 
-5 - Donload RED syntax highlight file from https://github.com/Ungaretti/Notepad-config-file-for-Red-Language . Use the download zip button. Unpack it in the RedIDE folder too.
+5 - Donload RED syntax highlight file from <a href="https://github.com/Ungaretti/Notepad-config-file-for-Red-Language"> HERE </a> . Use the download zip button. Unpack it in the RedIDE folder too.
 
-6 - I suggest you create a "Programs" folder inside RedIDE. You will end up with something like this:
+6 - I suggest you also create a "Programs" folder inside RedIDE. You will end up with something like this:
 
 <img src="http://ungaretti.github.io/assets/2.jpg">
 
