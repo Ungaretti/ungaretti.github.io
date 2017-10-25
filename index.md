@@ -1,8 +1,17 @@
-## RED Language
+# RED Language
 
-A guide for those who want to get things done. 
+A guide for those who want to get things done.
+Windows only! 
+Sorry, but that is the vast majority. If you use Linux you probably don't need this guide anyway, and my wife won't let me use her mac.
 
-### Who want to read this guide:
+## Setting up an environment:
+This section will explain how to make a nice standalone environment, almost an IDE, that fits on a single file or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It is by far the best. However, it lacks a feature that annoys me a lot: it has no option to automatically save the file before running it. If you, like me, think that's a major flaw, you can fix it installing a plugin named NppExec, but I will not cover this here.
+
+1 - Download Notepad++ - make sure you download a non installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
+
+2 - Create a folder for the environment. I suggest calling it "RedIDE" and making inside the "Documents" folder.
+
+3
 
 
 
