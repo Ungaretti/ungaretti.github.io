@@ -46,7 +46,7 @@ This section will explain how to make a nice standalone environment, almost an I
 Red[]
 print "Hello world!"
 ```
-12 - SAVE! (pain) and click "Run/Red_Run". You should see Red's console open up in the center of the screen. 
+12 - Save your program with .red extension ("myprogram.red"). You should see the syntax highlighted. Click "Run/Red_Run". You should see Red's console open up in the center of the screen. 
 
 13 - Move your Notepad++ and your console so that you get a nice environment for developing and THEN close the console in the position you want. This will make it open there next time you run a program.
 
