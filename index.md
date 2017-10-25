@@ -9,7 +9,7 @@ This section will explain how to make a nice standalone environment, almost an I
 
 1 - Download Notepad++ from https://notepad-plus-plus.org/download/v7.5.1.html . Make sure you download a non-installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
 
-![alt text] (http://ungaretti.github.io/assets/1.jpg)
+<img src="http://ungaretti.github.io/assets/1.jpg">
 
 2 - Create a folder for the environment. I suggest calling it "RedIDE", inside the "Documents" folder.
 
@@ -21,12 +21,20 @@ This section will explain how to make a nice standalone environment, almost an I
 
 6 - I suggest you create a "Programs" folder inside RedIDE. You will end up with something like this:
 
+<img src="http://ungaretti.github.io/assets/2.jpg">
+
 7 - Open Notepad++ and goto "Language/Define your language..." . Click on "Import..." and choose the downloaded "Red-lang.xml". A popup will tell you that the import was sucessfull. Check the box "Ignore case" and add "red" to the "Ext." box. Click in "Save As..." and save as "Red".
+
+<img src="http://ungaretti.github.io/assets/3.jpg">
+<img src="http://ungaretti.github.io/assets/4.jpg">
 
 8 - Open the "Settings/Preferences/Auto Completion" window. Check the boxes for "()", "" "{}" and "[]". If you can't find those in the options, create a "matched pair".
 
+<img src="http://ungaretti.github.io/assets/5.jpg">
+
 9 - Open the "Run/Run.." window and write down the name of the RED executable file you donwloaded folowed by a space and "$(FULL_CURRENT_PATH)", with the quotes. Click on save, give it your favorite shortcut keys and a name like "Red_Run" (remember that  later you may want to add a "Red_Compile" etc.), and clik "OK"
 
+<img src="http://ungaretti.github.io/assets/6.jpg">
 
 
 
