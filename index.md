@@ -27,7 +27,7 @@ This section will explain how to make a nice standalone environment, almost an I
 
 <img src="http://ungaretti.github.io/assets/3.jpg">
 
-8 - Check the box "Ignore case" and add "red" to the "Ext." box. Click in "Save As..." and save as "Red".
+8 - Check the box "Ignore case" Click in "Save As..." and save as "Red". THEN and add "red" to the "Ext." box (never mind the image below, it's just illustrative, the "Ext." box comes after the save).
 
 <img src="http://ungaretti.github.io/assets/4.jpg">
 
