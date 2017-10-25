@@ -4,6 +4,8 @@ A guide for those who want to get things done.
 Windows only! 
 Sorry, but that is the vast majority. If you use Linux you probably don't need this guide anyway, and my wife won't let me use her mac.
 
+<a href="https://github.com/Ungaretti/ungaretti.github.io/blob/master/setting_up_ide.md"> Setting up an environment </a> </n>
+
 ## Setting up an environment:
 This section will explain how to make a nice standalone environment, almost an IDE, that fits on a single file or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It's the best by far. However, it lacks a feature: it has no option to automatically save the file before running it. If you, like me, get annoyed by that, you can fix it installing a plugin named NppExec, but I will not cover this here. Crimson Editor can be configured to save before running and has Rebol syntax hightlighting, but lacks many other nice features that Notepad++ has.
 
