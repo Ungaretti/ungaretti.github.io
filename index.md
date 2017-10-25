@@ -1,12 +1,10 @@
-# RED Language
+# Makeshift IDE for RED Language development.
 
-A guide for those who want to get things done.
-Windows only! 
-Sorry, but that is the vast majority. If you use Linux you probably don't need this guide anyway, and my wife won't let me use her mac.
+Windows only! Sorry.
 
 ## Setting up an environment:
-This section will explain how to make a nice standalone environment, almost an IDE, that fits on a single file or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It's the best by far. However, it lacks a feature: it has no option to automatically save the file before running it. If you, like me, get annoyed by that, you can fix it installing a plugin named NppExec, but I will not cover this here. Crimson Editor can be configured to save before running and has Rebol syntax hightlighting, but lacks many other nice features that Notepad++ has.
-
+This guide will explain how to make a nice standalone environment, almost an IDE, that fits on a single file or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It's the best by far. However, it lacks a feature: it has no option to automatically save the file before running it. If you, like me, get annoyed by that, you can fix it installing a plugin named NppExec, but I will not cover this here. Crimson Editor can be configured to save before running and has Rebol syntax hightlighting, but lacks many other nice features that Notepad++ has.
+### Here we go:
 1 - Download Notepad++ from <a href="https://notepad-plus-plus.org/download/v7.5.1.html"> Notepad website </a> . Make sure you download a non-installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
 
 <img src="http://ungaretti.github.io/assets/1.jpg">
