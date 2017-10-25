@@ -9,7 +9,7 @@ This section will explain how to make a nice standalone environment, almost an I
 
 1 - Download Notepad++ from https://notepad-plus-plus.org/download/v7.5.1.html . Make sure you download a non-installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
 
-![Image](https://github.com/Ungaretti/ungaretti.github.io/tree/master/assets/1.jpg)
+![alt text](https://github.com/Ungaretti/ungaretti.github.io/tree/master/assets/1.jpg)
 
 2 - Create a folder for the environment. I suggest calling it "RedIDE", inside the "Documents" folder.
 
