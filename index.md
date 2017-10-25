@@ -15,9 +15,9 @@ This section will explain how to make a nice standalone environment, almost an I
 
 3 - Unpack Notepad++ in this folder.
 
-4 - Download RED and unpack it in this same folder.
+4 - Download RED <a href="http://www.red-lang.org/p/download.html"> HERE </a> and unpack it in this same folder.
 
-5 - Donload RED syntax highlight file from <a href="https://github.com/Ungaretti/Notepad-config-file-for-Red-Language"> HERE </a> . Use the download zip button. Unpack it in the RedIDE folder too.
+5 - Donload RED syntax highlight file from <a href="https://github.com/Ungaretti/Notepad-config-file-for-Red-Language"> HERE </a> . Use the download zip button. Unpack it somewhere and move the "Red-lang.xml" file to the RedIDE folder too.
 
 6 - I suggest you also create a "Programs" folder inside RedIDE. You will end up with something like this:
 
@@ -39,5 +39,17 @@ This section will explain how to make a nice standalone environment, almost an I
 
 <img src="http://ungaretti.github.io/assets/6.jpg">
 
+10 - Close and reestart Notepad++
+
+11 - Open a new file in Notepad++ and write the code below. Notice it is "Red", not "red", this is an exception as in most cases Red language is case insensitive:
+```Red
+Red[]
+print "Hello world!"
+```
+12 - SAVE! (pain) and click "Run/Red_Run". You should see Red's console open up in the center of the screen. 
+
+13 - Move your Notepad++ and your console so that you get a nice environment for developing and THEN close the console in the position you want. This will make it open there next time you run a program.
+
+14 - Happy coding!!
 
 
