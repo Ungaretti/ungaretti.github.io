@@ -46,7 +46,11 @@ print "Hello world!"
 ```
 13 - Save your program with .red extension ("myprogram.red"). You should see the syntax highlighted. I suggest saving it in the "programs" folder you created. Click "Run/Red_Run". You should see Red's console open up in the center of the screen. 
 
+<img src="http://ungaretti.github.io/assets/7.jpg">
+
 14 - Move and stretch your Notepad++ and your console so that you get a nice environment for developing and THEN close the console in the position you want. This will make it open there next time you run a program.
+
+<img src="http://ungaretti.github.io/assets/8.jpg">
 
 15 - I strongly suggest you make a copy of your "RedIDE" folder now and save it as "RedIDE_fresh" somewhere, so in case you mess up in the future you won't have to do it all over again.
 
