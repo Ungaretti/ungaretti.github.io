@@ -15,13 +15,13 @@ This guide will explain how to make a nice standalone environment, almost an IDE
 
 4 - Download RED .exe file <a href="http://www.red-lang.org/p/download.html"> HERE </a> and move it to this same folder.
 
-5 - Donload RED syntax highlight file from <a href="https://github.com/Ungaretti/Notepad-config-file-for-Red-Language"> HERE </a> . Use the download zip button. Unpack it somewhere and move the "Red-lang.xml" file to the RedIDE folder too.
+5 - Download RED syntax highlight file from <a href="https://github.com/Ungaretti/Notepad-config-file-for-Red-Language"> HERE </a> . Use the download zip button. Unpack it somewhere and move the "Red-lang.xml" file to the RedIDE folder too.
 
 6 - I suggest you also create a "programs" folder inside RedIDE, so you keep your programs and your environment in the same place. You will end up with something like this:
 
 <img src="http://ungaretti.github.io/assets/2.jpg">
 
-7 - Open Notepad++ and goto "Language/Define your language..." . Click on "Import..." and choose the downloaded "Red-lang.xml". A popup will tell you that the import was sucessfull.
+7 - Open Notepad++ and go to "Language/Define your language..." . Click on "Import..." and choose the downloaded "Red-lang.xml". A popup will tell you that the import was sucessfull.
 
 <img src="http://ungaretti.github.io/assets/3.jpg">
 
@@ -33,7 +33,7 @@ This guide will explain how to make a nice standalone environment, almost an IDE
 
 <img src="http://ungaretti.github.io/assets/5.jpg">
 
-10 - Open the "Run/Run.." window and write down the name of the RED executable file you donwloaded folowed by a space and "$(FULL_CURRENT_PATH)", with the quotes. Click on save, give it your favorite shortcut keys and a name like "Red_Run" (remember that  later you may want to add a "Red_Compile" etc.), and clik "OK"
+10 - Open the "Run/Run.." window and write down the name of the RED executable file you donwloaded folowed by a space and "$(FULL_CURRENT_PATH)", with the quotes. Click on save, give it your favorite shortcut keys and a name like "Red_Run" (remember that  later you may want to add a "Red_Compile" etc.), and click "OK"
 
 <img src="http://ungaretti.github.io/assets/6.jpg">
 
