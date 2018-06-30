@@ -1,6 +1,5 @@
-# Makeshift IDE for RED Language development.
+# Things I have been working at.
 
-Windows only! Sorry.
 
 ## Setting up an environment:
 This guide will explain how to make a nice standalone environment, almost an IDE, that fits on a single folder or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It's the best by far. However, it lacks a feature: it has no option to automatically save the file before running it. If you, like me, get annoyed by that, you can fix it installing a plugin named NppExec, but I will not cover this here. Crimson Editor can be configured to save before running and has Rebol syntax hightlighting, but lacks many other nice features that Notepad++ has.
