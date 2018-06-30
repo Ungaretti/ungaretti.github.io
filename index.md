@@ -1,8 +1,8 @@
-# Things I have been working at.
+# Things I have been working at:
 
 
-## Setting up an environment:
-This guide will explain how to make a nice standalone environment, almost an IDE, that fits on a single folder or on a pendrive. After evaluating many free editors, I chose to use Notepad++. It's the best by far. However, it lacks a feature: it has no option to automatically save the file before running it. If you, like me, get annoyed by that, you can fix it installing a plugin named NppExec, but I will not cover this here. Crimson Editor can be configured to save before running and has Rebol syntax hightlighting, but lacks many other nice features that Notepad++ has.
+## use24h:
+An authorization system for the Internet of Things (IoT). Please, check <a href="http://www.use24h.com/"> use24h website </a>
 ### Here we go:
 1 - Download Notepad++ from <a href="https://notepad-plus-plus.org/download/v7.5.1.html"> Notepad website </a> . Make sure you download a non-installable version, I suggest the "minimalist package 32-bit x86". No real need for the extras or for a 64 bit version.
 
